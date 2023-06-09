@@ -29,4 +29,4 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 Explicação de como se deve utilizar o projeto.
 
 ## Linguagens, dependencias e libs utilizadas :books:
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
