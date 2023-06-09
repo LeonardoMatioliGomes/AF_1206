@@ -1,6 +1,6 @@
-# Titulo ou Arte do Projeto
+# Instruções Condicionais, Repetição e Funções
 ## Versão: 1.0 
-## Status do Projeto: :heavy_check_mark: Concluído :warning: Espera :x: Cancelado
+## Status do Projeto: :heavy_check_mark: Concluído 
 
 ## Tópicos
 :small_blue_diamond: Descrição do projeto 
