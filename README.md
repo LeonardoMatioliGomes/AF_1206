@@ -26,7 +26,7 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 :heavy_check_mark: Funcionalidade 4
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+Ao abrir qualquer código, digite um número quando desejado, e pressione "Enter"
 
 ## Linguagens, dependencias e libs utilizadas :books:
 ![C%23-239120_style=for-the-badge logo=c-sharp logoColor=white](https://github.com/LeonardoMatioliGomes/AF_1206/assets/127799008/004c2e4e-1633-461e-9bbe-6ccb86f2fc5e)
