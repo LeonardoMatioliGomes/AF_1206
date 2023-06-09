@@ -29,8 +29,4 @@ Descrição breve do projeto compondo um paragrafo ou dois.
 Explicação de como se deve utilizar o projeto.
 
 ## Linguagens, dependencias e libs utilizadas :books:
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-XML
-...
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
